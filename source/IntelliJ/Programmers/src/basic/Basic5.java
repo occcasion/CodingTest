@@ -6,6 +6,7 @@ import java.util.stream.Collectors;
 public class Basic5 {
 
     public static void main(String[] args) {
+
     }
 
     //옹알이 (1)

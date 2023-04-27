@@ -1,11 +1,6 @@
 package base;
 
 public class Day5 {
-
-    public static void main(String[] args) {
-        System.out.println(solution5(new int[]{3, 4, 5, 2, 1}));
-    }
-
     //이어 붙인 수
     public static int solution5(int[] num_list) {
         String odd = "";
