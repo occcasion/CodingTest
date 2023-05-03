@@ -1,4 +1,4 @@
-package all.lv0;
+package all;
 
 import java.util.*;
 
